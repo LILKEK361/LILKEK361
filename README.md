@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am a computer information student with a passion for web development. My current focus is on mastering JavaScript, React, and TailwindCSS. While I am not currently working in the industry, I am always eager to learn and grow my skills. I am highly motivated and committed to putting in the extra effort to excel beyond expectations. My goal is to become a skilled developer and contribute to the technology industry in meaningful ways.
+Hello! I am a computer information student with a passion for web development. My current focus is on mastering JavaScript, React, Svelte and TailwindCSS. While I am not currently working in the industry, I am always eager to learn and grow my skills. I am highly motivated and committed to putting in the extra effort to excel beyond expectations. My goal is to become a skilled developer and contribute to the technology industry in meaningful ways.
 
 
 # 💻 Tech Stack:
